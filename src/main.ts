@@ -1,3 +1,3 @@
-export const isTrue = () => {
-  return true
-}
+const isTrue = () => true
+
+export default isTrue

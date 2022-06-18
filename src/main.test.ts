@@ -1,4 +1,4 @@
-import { isTrue } from './main'
+import isTrue from './main'
 
 describe('Main Tests', () => {
   it('should be true', () => {
